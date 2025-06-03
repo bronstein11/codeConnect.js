@@ -2,17 +2,21 @@
 
 Uma plataforma moderna para compartilhar e descobrir projetos de desenvolvimento, permitindo que desenvolvedores publiquem seus trabalhos com imagens, descrições e tags organizadas.
 
+> 📚 **Projeto Educacional**: Este é um projeto de estudo focado no aprendizado de desenvolvimento web. A funcionalidade de publicação é simulada para fins de demonstração.
+
 ## 🌐 Demo Online
 
 Acesse a aplicação em funcionamento: **[https://code-connect-js.vercel.app](https://code-connect-js.vercel.app)**
 
 ## 🚀 Funcionalidades
 
-- **Upload de Imagens**: Interface intuitiva para carregar imagens dos projetos
+- **Upload de Imagens**: Interface para simular o carregamento de imagens dos projetos
 - **Formulário de Publicação**: Campos para nome, descrição e tags do projeto
-- **Sistema de Tags**: Organização de projetos através de categorias
-- **Navegação Lateral**: Menu com acesso rápido às principais funcionalidades
+- **Sistema de Tags**: Demonstração de organização por categorias
+- **Navegação Lateral**: Menu com diferentes seções da aplicação
 - **Design Responsivo**: Interface adaptada para diferentes dispositivos
+
+> ⚠️ **Nota**: As funcionalidades são simuladas para fins de aprendizado. Não há conexão com banco de dados ou sistema de publicação real.
 
 ## 🎨 Design
 
@@ -69,10 +73,12 @@ codeconnect/
 
 ## 🎯 Como Usar
 
-1. **Upload de Imagem**: Clique no botão "Carregar imagem" para selecionar uma imagem do seu projeto
-2. **Preencher Dados**: Adicione o nome e descrição do projeto
-3. **Adicionar Tags**: Categorize seu projeto com tags relevantes
-4. **Publicar**: Clique em "Publicar" para compartilhar o projeto
+1. **Upload de Imagem**: Clique no botão "Carregar imagem" para simular a seleção de uma imagem
+2. **Preencher Dados**: Adicione o nome e descrição do projeto nos campos
+3. **Adicionar Tags**: Experimente o sistema de tags para categorizar projetos
+4. **Simular Publicação**: Clique em "Publicar" para ver a interação (funcionalidade simulada)
+
+> 💡 **Aprendizado**: Este projeto demonstra conceitos de HTML semântico, CSS moderno e JavaScript básico para manipulação do DOM.
 
 ## 🔧 Configuração
 
@@ -111,3 +117,18 @@ Para personalizar o tema, edite as variáveis CSS no arquivo `styles.css`:
 ## 👨‍💻 Autor
 
 **Mauricio Grass de Bronstein**
+
+*Desenvolvedor em formação - Projeto desenvolvido durante o processo de aprendizado em desenvolvimento web*
+
+## 🎓 Objetivo do Projeto
+
+Este projeto foi criado como parte do processo de aprendizado em desenvolvimento web, focando em:
+- Estruturação HTML semântica
+- Estilização CSS moderna com variáveis e Flexbox
+- Interatividade básica com JavaScript
+- Design responsivo e user experience
+- Organização de código e boas práticas
+
+---
+
+**CodeConnect** - Conectando desenvolvedores através de seus projetos! 🚀
